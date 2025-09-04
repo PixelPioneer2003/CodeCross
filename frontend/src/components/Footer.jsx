@@ -10,15 +10,12 @@ export default function Footer() {
                     </p>
                 </div>
 
-                {/* Center: Spacer instead of Links */}
                 <div className="hidden md:block" />
 
-                {/* Right: Credits */}
                 <div className="text-center md:text-right text-md text-gray-400">
                     <p>
                         Made with ❤️‍🔥 and ☕ by <span className="font-semibold text-secondary">Anonymous</span>
                     </p>
-                    <p className="mt-1">&copy; {new Date().getFullYear()} CodeBet. All rights reserved.</p>
                 </div>
             </div>
         </footer>

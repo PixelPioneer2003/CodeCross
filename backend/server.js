@@ -18,7 +18,7 @@ const server = http.createServer(app);
 app.use(
   cors({
     // origin: 'https://codebet.vercel.app', // <-- allow only your frontend
-    origin: "http://localhost:5173",
+    origin: "https://codecross.onrender.com",
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })

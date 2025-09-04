@@ -5,34 +5,24 @@ import { Navigation } from "swiper/modules";
 
 const testimonials = [
     {
-        name: "Nihal",
-        quote: "CodeBet gave me the same rush as Codeforces contests — but with friends!",
+        name: "Nikhil",
+        quote: "CodeBet feels just like a real contest — only this time, I get to duel my friends!",
         img: "https://i.pinimg.com/736x/e0/13/90/e01390989877c662bdc1e5e968fd3991.jpg",
     },
     {
-        name: "Nihal",
-        quote: "The pressure of live duels helped me solve faster and smarter. Highly addictive.",
+        name: "Utsav",
+        quote: "The thrill of competing live forced me to think quicker and sharpen my approach.",
         img: "https://i.pinimg.com/736x/cc/42/2c/cc422c8aaafc6b9bb9c61237f177d208.jpg",
     },
     {
-        name: "Ayush",
-        quote: "Absolutely loved the real-time timer and verdict system. Feels like a code arena!",
+        name: "Nihal",
+        quote: "Loved the synced timer and auto-verdict. It really feels like a coding battleground!",
         img: "https://i.pinimg.com/736x/39/f0/40/39f0400292dafbecf30851e474179350.jpg",
     },
     {
-        name: "Aditya",
-        quote: "This is not just practice. It’s performance under pressure. Loved every match.",
+        name: "Ans",
+        quote: "This isn’t just practice — it’s high-pressure problem-solving. Every match is exciting.",
         img: "https://i.pinimg.com/736x/b8/e4/33/b8e433eea92faca21e7bc49ea1314912.jpg",
-    },
-    {
-        name: "Kavya",
-        quote: "CodeBet helped me prepare for contests in a fun, challenging way. No more boring practice.",
-        img: "https://i.pinimg.com/736x/e3/4f/2d/e34f2db60b9c80cb14d195c61dc2d642.jpg",
-    },
-    {
-        name: "Tahmis",
-        quote: "I was skeptical at first, but 1v1 battles pushed me like no tutorial ever could.",
-        img: "https://i.pinimg.com/736x/0c/73/81/0c7381ebbf37f1eb8faac12a08c1f65e.jpg",
     },
 ];
 

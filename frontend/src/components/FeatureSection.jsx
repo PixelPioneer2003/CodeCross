@@ -10,28 +10,28 @@ export default function Features() {
     const features = [
         {
             icon: <Users size={28} className="text-yellow-400" />,
-            title: "Challenge Friends",
-            desc: "Start a 1v1 coding battle instantly by entering your friend’s username directly.",
+            title: "Battle with Friends",
+            desc: "Instantly challenge a friend to a coding duel by entering their username.",
         },
         {
             icon: <Clock size={28} className="text-yellow-400" />,
-            title: "Synced Timers",
-            desc: "The countdown starts only when both players get the problem, ensuring a fair battle experience.",
+            title: "Fair Timed Matches",
+            desc: "The timer kicks off only once both players receive the problem, ensuring fairness.",
         },
         {
             icon: <CheckCircle2 size={28} className="text-yellow-400" />,
-            title: "Auto Verdict Detection",
-            desc: "Live Codeforces API integration declares winner based on real submissions.",
+            title: "Automatic Winner Detection",
+            desc: "Integrated with the Codeforces API to announce results from real submissions in real time.",
         },
         {
             icon: <ListOrdered size={28} className="text-yellow-400" />,
-            title: "View Match History",
-            desc: "Check past duels and results in your profile anytime.",
+            title: "Track Your Duels",
+            desc: "Access previous match records and outcomes anytime on your profile.",
         },
         {
             icon: <Rocket size={28} className="text-yellow-400" />,
-            title: "Boost Problem Solving",
-            desc: "Train under pressure and become faster at solving competitive problems.",
+            title: "Sharpen Problem-Solving",
+            desc: "Improve speed and accuracy by practicing under real competition pressure.",
         },
     ];
 
